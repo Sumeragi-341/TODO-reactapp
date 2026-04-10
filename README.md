@@ -26,4 +26,4 @@ Reactを使用してシンプルなTODOアプリを開発しました。
 - 外部APIとの連携
 
 ## 画面イメージ
-![アプリ画面](img width="1920" height="913" alt="{885B884D-22C7-495A-841E-5D72EEE674E9}" src="https://github.com/user-attachments/assets/a6d80fe3-b4cb-47a9-bfec-ba362379622b" )
+![アプリ画面]<img width="1920" height="913" alt="{885B884D-22C7-495A-841E-5D72EEE674E9}" src="https://github.com/user-attachments/assets/a6d80fe3-b4cb-47a9-bfec-ba362379622b" />
